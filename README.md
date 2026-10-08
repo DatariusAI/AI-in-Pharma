@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **drug discovery, molecul
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Lists fill in after the first daily refresh._
+_Last refreshed: 2026-10-08 14:36 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,42 +21,86 @@ _Lists fill in after the first daily refresh._
 Newest papers on arXiv for this topic, newest first.
 
 <!-- ARXIV:START -->
-_Loading on first refresh._
+| Date | Paper | Authors |
+|---|---|---|
+| 2026-10-06 | [Entropy-Guided Reverse-Causal AI to Identify Upstream Bottleneck Genes for Alzheimer's Drug Discovery](https://arxiv.org/abs/2610.08736) | Victor O. K. Li et al. |
+| 2026-10-06 | [Accurate Molecular Property Regression Using Simple Fusion of Complementary Classical and Graph Predictors](https://arxiv.org/abs/2610.07678) | Fei Yu et al. |
+| 2026-10-05 | [Kurate: Scalable Scientific Quality Analysis](https://arxiv.org/abs/2610.07306) | Matthew J. Vowels et al. |
+| 2026-10-03 | [Toward a Locally Deployable Agentic Co-Scientist: Small-Model Planning for Early-Stage Drug Discovery](https://arxiv.org/abs/2610.04740) | Tian Liang et al. |
+| 2026-10-02 | [MathAgent: Multi-Agent Optimization of Mathematical Invariants for Molecular Property Prediction](https://arxiv.org/abs/2610.03992) | Yiming Ren et al. |
+| 2026-10-01 | [Answering clinicians' questions over trial evidence tables with verifiable, feedback-driven language models](https://arxiv.org/abs/2610.02576) | Manan Roy Choudhury et al. |
+| 2026-10-01 | [DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](https://arxiv.org/abs/2610.02574) | Vansh Ramani et al. |
+| 2026-10-01 | [Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features](https://arxiv.org/abs/2610.02189) | Jason X. Liu et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- AI:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [westlake-repl/SaProt](https://github.com/westlake-repl/SaProt) | Saprot: Protein Language Model with Structural Alphabet (AA+3Di) | Python | 638 | 2026-03-08 |
+| [mheinzinger/ProstT5](https://github.com/mheinzinger/ProstT5) | Bilingual Language Model for Protein Sequence and Structure | Jupyter Notebook | 324 | 2026-03-06 |
+| [ElanaPearl/InterPLM](https://github.com/ElanaPearl/InterPLM) | Discovering Interpretable Features in Protein Language Models via Sparse Autoencoders | Python | 309 | 2025-10-31 |
+| [Dunni3/FlowMol](https://github.com/Dunni3/FlowMol) | Mixed continous/categorical flow-matching model for de novo molecule generation. | Python | 221 | 2026-04-26 |
+| [westlake-repl/ProTrek](https://github.com/westlake-repl/ProTrek) | ProTrek: illuminating the Protein Universe through Trimodal Protein Language Model (Connecting text and protein) | Python | 219 | 2026-05-15 |
+| [NVIDIA-BioNeMo/genmol](https://github.com/NVIDIA-BioNeMo/genmol) | GenMol is a generative AI model for creating novel molecules. It utilizes masked discrete diffusion and fragment-based generation to create  | Python | 207 | 2026-01-14 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- ML:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 943 | 2026-07-20 |
+| [Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) | Colab Notebooks covering deep learning tools for biomolecular structure prediction and design | Jupyter Notebook | 731 | 2026-04-17 |
+| [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) | BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukar | Perl | 468 | 2026-06-17 |
+| [rdk/p2rank](https://github.com/rdk/p2rank) | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. | Groovy | 464 | 2026-09-11 |
+| [BioinfoMachineLearning/PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | Comprehensive benchmarking of protein-ligand structure prediction methods. (Nature Machine Intelligence) | Jupyter Notebook | 249 | 2026-09-01 |
+| [Gaius-Augustus/GALBA](https://github.com/Gaius-Augustus/GALBA) | GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scena | Perl | 149 | 2026-04-13 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DS:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,815 | 2026-09-30 |
+| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,609 | 2026-10-03 |
+| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 1,975 | 2026-09-17 |
+| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,865 | 2026-10-08 |
+| [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,386 | 2026-09-14 |
+| [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,326 | 2026-08-22 |
 <!-- DS:END -->
 
 ## 📊 Latest data analytics projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DA:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [WangLabCSU/faers](https://github.com/WangLabCSU/faers) | R interface for FDA Adverse Event Reporting System | R | 51 | 2026-09-29 |
+| [pryndor/Lixplore_cli](https://github.com/pryndor/Lixplore_cli) | A Unix-inspired command-line tool for searching scientific literature, built for terminal users who want speed, automation and minimal inter | Python | 33 | 2026-09-27 |
+| [neksa/openfda-faers](https://github.com/neksa/openfda-faers) | FAERS Adverse Reaction Events database and OpenFDA API | Python | 19 | 2026-09-24 |
+| [Shakesbeery/vigipy](https://github.com/Shakesbeery/vigipy) | A medical device/pharmacovigilance library written in python | Python | 17 | 2026-10-05 |
+| [GoogleCloudPlatform/document-analytics-on-bigquery](https://github.com/GoogleCloudPlatform/document-analytics-on-bigquery) | A deployable Intelligent Clinical Trial Platform showcasing unified healthcare document analytics within BigQuery. It uses Document AI, Gemi | Jupyter Notebook | 10 | 2026-07-21 |
+| [geoffkip/Clinical-Trial-Inspector](https://github.com/geoffkip/Clinical-Trial-Inspector) | Clinical Trial Inspector is an advanced AI agent designed to revolutionize how researchers, clinicians, and analysts explore clinical trial  | Python | 8 | 2025-12-04 |
 <!-- DA:END -->
 
 ## 📈 Latest data analysis projects
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- DAN:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 943 | 2026-07-20 |
+| [Appsilon/TealFlowMCP](https://github.com/Appsilon/TealFlowMCP) | MCP server for building Teal R Shiny apps with AI assistance. Clinical trial data analysis made easy with Claude, Copilot & more. | Python | 28 | 2026-03-01 |
+| [Dreamerol/PLACEBO-EFFECT-ML](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) | Placebo Effect is an Applied Machine Learning and Data Science project focused on clinical trial data analysis, statistical analysis, explor | Jupyter Notebook | 27 | 2026-10-06 |
+| [AyadLab/scFOCAL](https://github.com/AyadLab/scFOCAL) | scFOCAL operates through the integration of drug-response transcriptional consensus signatures (TCSs) derived from the LINCS L1000 dataset w | R | 26 | 2026-06-23 |
+| [dkvkaran06/Accidental-Drug-Death-Data-Analysis](https://github.com/dkvkaran06/Accidental-Drug-Death-Data-Analysis) | I have analised Accidental Drug Death cases in US | Python | 16 | 2026-09-02 |
+| [shailendraaher1/END-TO-END-Clinical-SAS-Project-Oncology](https://github.com/shailendraaher1/END-TO-END-Clinical-SAS-Project-Oncology) | This project showcases an end-to-end clinical Trial data transformation workflow for a Phase III Oncology (Lung Cancer) clinical trial (ONCO | SAS | 11 | 2026-09-15 |
 <!-- DAN:END -->
 
 ## 📚 Free learning resources
