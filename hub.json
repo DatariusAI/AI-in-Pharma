@@ -1,0 +1,44 @@
+{
+  "arxiv_query": "(abs:\"drug discovery\" OR abs:\"molecular property\" OR abs:pharmaceutical OR abs:\"protein design\" OR abs:\"clinical trial\") AND (abs:\"machine learning\" OR abs:\"language model\" OR abs:\"deep learning\")",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "AI",
+      "queries": [
+        "drug discovery llm",
+        "molecule generation",
+        "protein language model"
+      ]
+    },
+    {
+      "key": "ML",
+      "queries": [
+        "drug discovery machine learning",
+        "protein structure prediction"
+      ]
+    },
+    {
+      "key": "DS",
+      "queries": [
+        "cheminformatics",
+        "bioinformatics data science"
+      ]
+    },
+    {
+      "key": "DA",
+      "queries": [
+        "clinical trials analytics",
+        "pharmacovigilance"
+      ]
+    },
+    {
+      "key": "DAN",
+      "queries": [
+        "clinical trial data analysis",
+        "drug data analysis"
+      ]
+    }
+  ]
+}
