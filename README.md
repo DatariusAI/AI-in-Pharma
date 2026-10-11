@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **drug discovery, molecul
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-10 10:42 UTC_
+_Last refreshed: 2026-10-11 10:55 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -44,7 +44,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [ElanaPearl/InterPLM](https://github.com/ElanaPearl/InterPLM) | Discovering Interpretable Features in Protein Language Models via Sparse Autoencoders | Python | 311 | 2025-10-31 |
 | [Dunni3/FlowMol](https://github.com/Dunni3/FlowMol) | Mixed continous/categorical flow-matching model for de novo molecule generation. | Python | 221 | 2026-04-26 |
 | [westlake-repl/ProTrek](https://github.com/westlake-repl/ProTrek) | ProTrek: illuminating the Protein Universe through Trimodal Protein Language Model (Connecting text and protein) | Python | 219 | 2026-05-15 |
-| [NVIDIA-BioNeMo/genmol](https://github.com/NVIDIA-BioNeMo/genmol) | GenMol is a generative AI model for creating novel molecules. It utilizes masked discrete diffusion and fragment-based generation to create  | Python | 207 | 2026-01-14 |
+| [NVIDIA-BioNeMo/genmol](https://github.com/NVIDIA-BioNeMo/genmol) | GenMol is a generative AI model for creating novel molecules. It utilizes masked discrete diffusion and fragment-based generation to create  | Python | 208 | 2026-01-14 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -68,9 +68,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,816 | 2026-09-30 |
-| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,614 | 2026-10-10 |
-| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 1,937 | 2026-09-17 |
-| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,868 | 2026-10-10 |
+| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,614 | 2026-10-11 |
+| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 1,938 | 2026-09-17 |
+| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,868 | 2026-10-11 |
 | [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,387 | 2026-09-14 |
 | [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,328 | 2026-08-22 |
 <!-- DS:END -->
@@ -97,7 +97,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 944 | 2026-07-20 |
 | [Appsilon/TealFlowMCP](https://github.com/Appsilon/TealFlowMCP) | MCP server for building Teal R Shiny apps with AI assistance. Clinical trial data analysis made easy with Claude, Copilot & more. | Python | 28 | 2026-03-01 |
-| [Dreamerol/PLACEBO-EFFECT-ML](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) | Placebo Effect is an Applied Machine Learning and Data Science project focused on clinical trial data analysis, statistical analysis, explor | Jupyter Notebook | 28 | 2026-10-06 |
+| [Dreamerol/PLACEBO-EFFECT-ML](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) | Placebo Effect is an Applied Machine Learning and Data Science project focused on clinical trial data analysis, statistical analysis, explor | Jupyter Notebook | 27 | 2026-10-06 |
 | [AyadLab/scFOCAL](https://github.com/AyadLab/scFOCAL) | scFOCAL operates through the integration of drug-response transcriptional consensus signatures (TCSs) derived from the LINCS L1000 dataset w | R | 26 | 2026-06-23 |
 | [dkvkaran06/Accidental-Drug-Death-Data-Analysis](https://github.com/dkvkaran06/Accidental-Drug-Death-Data-Analysis) | I have analised Accidental Drug Death cases in US | Python | 16 | 2026-09-02 |
 | [shailendraaher1/END-TO-END-Clinical-SAS-Project-Oncology](https://github.com/shailendraaher1/END-TO-END-Clinical-SAS-Project-Oncology) | This project showcases an end-to-end clinical Trial data transformation workflow for a Phase III Oncology (Lung Cancer) clinical trial (ONCO | SAS | 11 | 2026-09-15 |
