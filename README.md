@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **drug discovery, molecul
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-11 10:55 UTC_
+_Last refreshed: 2026-10-12 04:50 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-09 | [Electron-Density-Informed Molecular Property Prediction Using Surrogate Functionals](https://arxiv.org/abs/2610.13649) | Manuel V. Klockow et al. |
+| 2026-10-08 | [Predicted state-to-state collisional rate coefficients from neural networks](https://arxiv.org/abs/2610.12743) | Lisán David Cabrera-González et al. |
+| 2026-10-08 | [MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?](https://arxiv.org/abs/2610.12522) | Yuhang Xie et al. |
 | 2026-10-06 | [Entropy-Guided Reverse-Causal AI to Identify Upstream Bottleneck Genes for Alzheimer's Drug Discovery](https://arxiv.org/abs/2610.08736) | Victor O. K. Li et al. |
 | 2026-10-06 | [Accurate Molecular Property Regression Using Simple Fusion of Complementary Classical and Graph Predictors](https://arxiv.org/abs/2610.07678) | Fei Yu et al. |
 | 2026-10-05 | [Kurate: Scalable Scientific Quality Analysis](https://arxiv.org/abs/2610.07306) | Matthew J. Vowels et al. |
 | 2026-10-03 | [Toward a Locally Deployable Agentic Co-Scientist: Small-Model Planning for Early-Stage Drug Discovery](https://arxiv.org/abs/2610.04740) | Tian Liang et al. |
 | 2026-10-02 | [MathAgent: Multi-Agent Optimization of Mathematical Invariants for Molecular Property Prediction](https://arxiv.org/abs/2610.03992) | Yiming Ren et al. |
-| 2026-10-01 | [Answering clinicians' questions over trial evidence tables with verifiable, feedback-driven language models](https://arxiv.org/abs/2610.02576) | Manan Roy Choudhury et al. |
-| 2026-10-01 | [DISSOLVR: An Interpretable and Fast Framework for Aqueous and Organic Solubility Prediction](https://arxiv.org/abs/2610.02574) | Vansh Ramani et al. |
-| 2026-10-01 | [Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features](https://arxiv.org/abs/2610.02189) | Jason X. Liu et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -56,7 +56,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 944 | 2026-07-20 |
 | [Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) | Colab Notebooks covering deep learning tools for biomolecular structure prediction and design | Jupyter Notebook | 731 | 2026-04-17 |
 | [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) | BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukar | Perl | 468 | 2026-06-17 |
-| [rdk/p2rank](https://github.com/rdk/p2rank) | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. | Groovy | 464 | 2026-09-11 |
+| [rdk/p2rank](https://github.com/rdk/p2rank) | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. | Groovy | 465 | 2026-09-11 |
 | [BioinfoMachineLearning/PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | Comprehensive benchmarking of protein-ligand structure prediction methods. (Nature Machine Intelligence) | Jupyter Notebook | 249 | 2026-09-01 |
 | [Gaius-Augustus/GALBA](https://github.com/Gaius-Augustus/GALBA) | GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scena | Perl | 149 | 2026-04-13 |
 <!-- ML:END -->
@@ -69,7 +69,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,816 | 2026-09-30 |
 | [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,614 | 2026-10-11 |
-| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 1,938 | 2026-09-17 |
+| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 1,942 | 2026-09-17 |
 | [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,868 | 2026-10-11 |
 | [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,387 | 2026-09-14 |
 | [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,328 | 2026-08-22 |
