@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **drug discovery, molecul
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-18 04:35 UTC_
+_Last refreshed: 2026-10-19 04:40 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -53,12 +53,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 960 | 2026-07-20 |
+| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 965 | 2026-07-20 |
 | [Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) | Colab Notebooks covering deep learning tools for biomolecular structure prediction and design | Jupyter Notebook | 731 | 2026-04-17 |
 | [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) | BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukar | Perl | 470 | 2026-06-17 |
 | [rdk/p2rank](https://github.com/rdk/p2rank) | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. | Groovy | 467 | 2026-09-11 |
 | [BioinfoMachineLearning/PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | Comprehensive benchmarking of protein-ligand structure prediction methods. (Nature Machine Intelligence) | Jupyter Notebook | 250 | 2026-09-01 |
-| [Gaius-Augustus/GALBA](https://github.com/Gaius-Augustus/GALBA) | GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scena | Perl | 149 | 2026-04-13 |
+| [Gaius-Augustus/GALBA](https://github.com/Gaius-Augustus/GALBA) | GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scena | Perl | 150 | 2026-04-13 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
@@ -67,12 +67,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,824 | 2026-09-30 |
+| [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,825 | 2026-09-30 |
 | [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,627 | 2026-10-16 |
-| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 1,967 | 2026-09-17 |
-| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,871 | 2026-10-17 |
+| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 1,970 | 2026-09-17 |
+| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,872 | 2026-10-19 |
 | [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,390 | 2026-09-14 |
-| [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,335 | 2026-08-22 |
+| [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,334 | 2026-08-22 |
 <!-- DS:END -->
 
 ## 📊 Latest data analytics projects
@@ -84,7 +84,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [WangLabCSU/faers](https://github.com/WangLabCSU/faers) | R interface for FDA Adverse Event Reporting System | R | 54 | 2026-09-29 |
 | [pryndor/Lixplore_cli](https://github.com/pryndor/Lixplore_cli) | A Unix-inspired command-line tool for searching scientific literature, built for terminal users who want speed, automation and minimal inter | Python | 33 | 2026-09-27 |
 | [neksa/openfda-faers](https://github.com/neksa/openfda-faers) | FAERS Adverse Reaction Events database and OpenFDA API | Python | 19 | 2026-09-24 |
-| [Shakesbeery/vigipy](https://github.com/Shakesbeery/vigipy) | A medical device/pharmacovigilance library written in python | Python | 18 | 2026-10-18 |
+| [Shakesbeery/vigipy](https://github.com/Shakesbeery/vigipy) | A medical device/pharmacovigilance library written in python | Python | 18 | 2026-10-19 |
 | [GoogleCloudPlatform/document-analytics-on-bigquery](https://github.com/GoogleCloudPlatform/document-analytics-on-bigquery) | A deployable Intelligent Clinical Trial Platform showcasing unified healthcare document analytics within BigQuery. It uses Document AI, Gemi | Jupyter Notebook | 10 | 2026-07-21 |
 | [geoffkip/Clinical-Trial-Inspector](https://github.com/geoffkip/Clinical-Trial-Inspector) | Clinical Trial Inspector is an advanced AI agent designed to revolutionize how researchers, clinicians, and analysts explore clinical trial  | Python | 9 | 2025-12-04 |
 <!-- DA:END -->
@@ -95,10 +95,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 960 | 2026-07-20 |
+| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 965 | 2026-07-20 |
 | [Appsilon/TealFlowMCP](https://github.com/Appsilon/TealFlowMCP) | MCP server for building Teal R Shiny apps with AI assistance. Clinical trial data analysis made easy with Claude, Copilot & more. | Python | 28 | 2026-03-01 |
+| [AyadLab/scFOCAL](https://github.com/AyadLab/scFOCAL) | scFOCAL operates through the integration of drug-response transcriptional consensus signatures (TCSs) derived from the LINCS L1000 dataset w | R | 28 | 2026-06-23 |
 | [Dreamerol/PLACEBO-EFFECT-ML](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) | Placebo Effect is an Applied Machine Learning and Data Science project focused on clinical trial data analysis, statistical analysis, explor | Jupyter Notebook | 27 | 2026-10-06 |
-| [AyadLab/scFOCAL](https://github.com/AyadLab/scFOCAL) | scFOCAL operates through the integration of drug-response transcriptional consensus signatures (TCSs) derived from the LINCS L1000 dataset w | R | 27 | 2026-06-23 |
 | [dkvkaran06/Accidental-Drug-Death-Data-Analysis](https://github.com/dkvkaran06/Accidental-Drug-Death-Data-Analysis) | I have analised Accidental Drug Death cases in US | Python | 16 | 2026-09-02 |
 | [shailendraaher1/END-TO-END-Clinical-SAS-Project-Oncology](https://github.com/shailendraaher1/END-TO-END-Clinical-SAS-Project-Oncology) | This project showcases an end-to-end clinical Trial data transformation workflow for a Phase III Oncology (Lung Cancer) clinical trial (ONCO | SAS | 11 | 2026-09-15 |
 <!-- DAN:END -->
