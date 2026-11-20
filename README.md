@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **drug discovery, molecul
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-19 04:28 UTC_
+_Last refreshed: 2026-11-20 04:29 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,6 +23,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-11-19 | [GPU-Accelerated Secure Inference for Drug--Target Interaction Prediction](https://arxiv.org/abs/2611.25664) | Sikha Pentyala et al. |
 | 2026-11-18 | [TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning](https://arxiv.org/abs/2611.23779) | Pau Mateo-Bernadó et al. |
 | 2026-11-18 | [STORM: A Lightweight Structure-Free Model for Binding Affinity Prediction](https://arxiv.org/abs/2611.23777) | Ayush Pandit et al. |
 | 2026-11-16 | [tmol: a GPU-accelerated implementation of the Rosetta energy function for machine learning](https://arxiv.org/abs/2611.21857) | Andrew Leaver-Fay et al. |
@@ -30,7 +31,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-11-13 | [A Distributionally Robust Framework for Safe and Generalizable Utilization of Surrogate Markers](https://arxiv.org/abs/2611.18970) | Molei Liu et al. |
 | 2026-11-13 | [Multi-Assay Antibody Developability Prediction with Shared Structure-Language Representations](https://arxiv.org/abs/2611.18846) | Daria B. Kokh |
 | 2026-11-11 | [GrAFT-PDX: Growth and Failure-Time Modeling of Patient-Derived Xenograft Experiments](https://arxiv.org/abs/2611.15793) | Nihar Mauskar et al. |
-| 2026-11-11 | [Improving Efficiency and Power in Small Rare-Disease Trials Through Prespecified, Data-Adaptive Covariate Adjustment](https://arxiv.org/abs/2611.15071) | Tianyue Zhou et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -56,7 +56,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 1,054 | 2026-07-20 |
 | [Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) | Colab Notebooks covering deep learning tools for biomolecular structure prediction and design | Jupyter Notebook | 737 | 2026-04-17 |
 | [rdk/p2rank](https://github.com/rdk/p2rank) | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. | Groovy | 478 | 2026-09-11 |
-| [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) | BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukar | Perl | 472 | 2026-11-18 |
+| [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) | BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukar | Perl | 471 | 2026-11-18 |
 | [BioinfoMachineLearning/PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | Comprehensive benchmarking of protein-ligand structure prediction methods. (Nature Machine Intelligence) | Jupyter Notebook | 254 | 2026-09-01 |
 | [Gaius-Augustus/GALBA](https://github.com/Gaius-Augustus/GALBA) | GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scena | Perl | 150 | 2026-04-13 |
 <!-- ML:END -->
@@ -68,10 +68,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,831 | 2026-10-26 |
-| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,699 | 2026-11-17 |
-| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 2,070 | 2026-09-17 |
-| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,900 | 2026-11-18 |
-| [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,410 | 2026-09-14 |
+| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,700 | 2026-11-19 |
+| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 2,072 | 2026-09-17 |
+| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,899 | 2026-11-20 |
+| [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,409 | 2026-09-14 |
 | [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,346 | 2026-08-22 |
 <!-- DS:END -->
 
