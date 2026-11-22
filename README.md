@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **drug discovery, molecul
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-21 04:27 UTC_
+_Last refreshed: 2026-11-22 04:28 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -67,11 +67,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,832 | 2026-10-26 |
-| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,701 | 2026-11-20 |
-| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 2,076 | 2026-11-20 |
-| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,899 | 2026-11-20 |
-| [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,413 | 2026-09-14 |
+| [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,833 | 2026-10-26 |
+| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,703 | 2026-11-21 |
+| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 2,079 | 2026-11-20 |
+| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,901 | 2026-11-21 |
+| [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,414 | 2026-09-14 |
 | [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,346 | 2026-08-22 |
 <!-- DS:END -->
 
@@ -82,7 +82,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [WangLabCSU/faers](https://github.com/WangLabCSU/faers) | R interface for FDA Adverse Event Reporting System | R | 54 | 2026-11-12 |
-| [pryndor/Lixplore_cli](https://github.com/pryndor/Lixplore_cli) | A Unix-inspired command-line tool for searching scientific literature, built for terminal users who want speed, automation and minimal inter | Python | 33 | 2026-10-25 |
+| [pryndor/Lixplore_cli](https://github.com/pryndor/Lixplore_cli) | A Unix-inspired command-line tool for searching scientific literature, built for terminal users who want speed, automation and minimal inter | Python | 34 | 2026-10-25 |
 | [Shakesbeery/vigipy](https://github.com/Shakesbeery/vigipy) | A medical device/pharmacovigilance library written in python | Python | 20 | 2026-10-21 |
 | [neksa/openfda-faers](https://github.com/neksa/openfda-faers) | FAERS Adverse Reaction Events database and OpenFDA API | Python | 20 | 2026-10-22 |
 | [GoogleCloudPlatform/document-analytics-on-bigquery](https://github.com/GoogleCloudPlatform/document-analytics-on-bigquery) | A deployable Intelligent Clinical Trial Platform showcasing unified healthcare document analytics within BigQuery. It uses Document AI, Gemi | Jupyter Notebook | 10 | 2026-07-21 |
