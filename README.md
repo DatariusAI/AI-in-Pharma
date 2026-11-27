@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **drug discovery, molecul
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-26 04:29 UTC_
+_Last refreshed: 2026-11-27 04:29 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -43,7 +43,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [mheinzinger/ProstT5](https://github.com/mheinzinger/ProstT5) | Bilingual Language Model for Protein Sequence and Structure | Jupyter Notebook | 331 | 2026-03-06 |
 | [Dunni3/FlowMol](https://github.com/Dunni3/FlowMol) | Mixed continous/categorical flow-matching model for de novo molecule generation. | Python | 227 | 2026-04-26 |
 | [westlake-repl/ProTrek](https://github.com/westlake-repl/ProTrek) | ProTrek: illuminating the Protein Universe through Trimodal Protein Language Model (Connecting text and protein) | Python | 222 | 2026-05-15 |
-| [NVIDIA-BioNeMo/genmol](https://github.com/NVIDIA-BioNeMo/genmol) | GenMol is a generative AI model for creating novel molecules. It utilizes masked discrete diffusion and fragment-based generation to create  | Python | 219 | 2026-01-14 |
+| [NVIDIA-BioNeMo/genmol](https://github.com/NVIDIA-BioNeMo/genmol) | GenMol is a generative AI model for creating novel molecules. It utilizes masked discrete diffusion and fragment-based generation to create  | Python | 220 | 2026-01-14 |
 | [westlake-repl/SaprotHub](https://github.com/westlake-repl/SaprotHub) | Making Protein Language Modeling Accessible to All Biologists | Jupyter Notebook | 172 | 2026-11-16 |
 <!-- AI:END -->
 
@@ -53,12 +53,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 1,069 | 2026-07-20 |
+| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 1,073 | 2026-07-20 |
 | [Graylab/DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) | Colab Notebooks covering deep learning tools for biomolecular structure prediction and design | Jupyter Notebook | 738 | 2026-04-17 |
 | [rdk/p2rank](https://github.com/rdk/p2rank) | P2Rank: Protein-ligand binding site prediction from protein structure based on machine learning. | Groovy | 480 | 2026-09-11 |
-| [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) | BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukar | Perl | 471 | 2026-11-18 |
+| [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) | BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukar | Perl | 472 | 2026-11-18 |
 | [BioinfoMachineLearning/PoseBench](https://github.com/BioinfoMachineLearning/PoseBench) | Comprehensive benchmarking of protein-ligand structure prediction methods. (Nature Machine Intelligence) | Jupyter Notebook | 254 | 2026-09-01 |
-| [Gaius-Augustus/GALBA](https://github.com/Gaius-Augustus/GALBA) | GALBA is a pipeline for fully automated prediction of protein coding gene structures with AUGUSTUS in novel eukaryotic genomes for the scena | Perl | 150 | 2026-04-13 |
+| [patrickbryant1/RareFold](https://github.com/patrickbryant1/RareFold) | Structure prediction and design of proteins with noncanonical amino acids | Python | 151 | 2026-02-01 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
@@ -68,11 +68,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [google/deepvariant](https://github.com/google/deepvariant) | DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data. | Python | 3,839 | 2026-10-26 |
-| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,705 | 2026-11-25 |
-| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 2,090 | 2026-11-20 |
-| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,902 | 2026-11-25 |
-| [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,415 | 2026-09-14 |
-| [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,348 | 2026-08-22 |
+| [rdkit/rdkit](https://github.com/rdkit/rdkit) | The official sources for the RDKit library | HTML | 3,706 | 2026-11-26 |
+| [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. | Python | 2,089 | 2026-11-20 |
+| [galaxyproject/galaxy](https://github.com/galaxyproject/galaxy) | Data intensive science for everyone. | Python | 1,903 | 2026-11-26 |
+| [openbabel/openbabel](https://github.com/openbabel/openbabel) | Open Babel is a chemical toolbox designed to speak the many languages of chemical data. | C++ | 1,416 | 2026-09-14 |
+| [PatWalters/practical_cheminformatics_tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) | Practical Cheminformatics Tutorials | Jupyter Notebook | 1,349 | 2026-08-22 |
 <!-- DS:END -->
 
 ## 📊 Latest data analytics projects
@@ -95,7 +95,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DAN:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 1,069 | 2026-07-20 |
+| [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientifi | Python | 1,073 | 2026-07-20 |
 | [Appsilon/TealFlowMCP](https://github.com/Appsilon/TealFlowMCP) | MCP server for building Teal R Shiny apps with AI assistance. Clinical trial data analysis made easy with Claude, Copilot & more. | Python | 30 | 2026-10-30 |
 | [Dreamerol/PLACEBO-EFFECT-ML](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) | Placebo Effect is an Applied Machine Learning and Data Science project focused on clinical trial data analysis, statistical analysis, explor | Jupyter Notebook | 29 | 2026-11-25 |
 | [AyadLab/scFOCAL](https://github.com/AyadLab/scFOCAL) | scFOCAL operates through the integration of drug-response transcriptional consensus signatures (TCSs) derived from the LINCS L1000 dataset w | R | 28 | 2026-06-23 |
